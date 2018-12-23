@@ -9,4 +9,4 @@
 
 [Day 4 — Logistic Regression](https://medium.com/30-days-of-machine-learning/day-4-logistic-regression-df9a7a2220cd)
 
-[Day 5 -Entropy, Relative Entropy, and Cross Entropy](https://medium.com/30-days-of-machine-learning/day-5-entropy-relative-entropy-and-cross-entropy-8369d67cc180)
+[Day 5 - Entropy, Relative Entropy, and Cross Entropy](https://medium.com/30-days-of-machine-learning/day-5-entropy-relative-entropy-and-cross-entropy-8369d67cc180)
